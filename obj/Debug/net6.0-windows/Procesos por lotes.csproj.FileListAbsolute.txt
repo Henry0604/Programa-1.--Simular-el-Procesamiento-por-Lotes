@@ -1,0 +1,18 @@
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\bin\Debug\net6.0-windows\Procesos por lotes.exe
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\bin\Debug\net6.0-windows\Procesos por lotes.deps.json
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\bin\Debug\net6.0-windows\Procesos por lotes.runtimeconfig.json
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\bin\Debug\net6.0-windows\Procesos por lotes.dll
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\bin\Debug\net6.0-windows\Procesos por lotes.pdb
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\Procesos por lotes.csproj.AssemblyReference.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\Procesos_por_lotes.Form1.resources
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\Procesos por lotes.csproj.GenerateResource.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\Procesos por lotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\Procesos por lotes.AssemblyInfoInputs.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\Procesos por lotes.AssemblyInfo.cs
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\Procesos por lotes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\Procesos por lotes.dll
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\refint\Procesos por lotes.dll
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\Procesos por lotes.pdb
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\Procesos por lotes.genruntimeconfig.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\ref\Procesos por lotes.dll
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.02\Procesos por lotes\obj\Debug\net6.0-windows\Procesos_por_lotes.Properties.Resources.resources
